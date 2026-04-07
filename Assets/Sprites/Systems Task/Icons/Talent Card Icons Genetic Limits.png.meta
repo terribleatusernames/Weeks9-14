@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: d25a398e865c3bf4c815eb73c2bce540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2421950642406930655
+    second: Talent Card Icons Genetic Limits_0
+  - first:
+      213: -5833416970181252162
+    second: Talent Card Icons Genetic Limits_1
+  - first:
+      213: -2560830047968773629
+    second: Talent Card Icons Genetic Limits_2
+  - first:
+      213: 4938424737139821006
+    second: Talent Card Icons Genetic Limits_3
+  - first:
+      213: 8134290391217781332
+    second: Talent Card Icons Genetic Limits_4
+  - first:
+      213: 1673855061984047025
+    second: Talent Card Icons Genetic Limits_5
+  - first:
+      213: -2183226585594837620
+    second: Talent Card Icons Genetic Limits_6
+  - first:
+      213: 1195641223463926022
+    second: Talent Card Icons Genetic Limits_7
+  - first:
+      213: 3621463693538303275
+    second: Talent Card Icons Genetic Limits_8
+  - first:
+      213: 774688627104101245
+    second: Talent Card Icons Genetic Limits_9
+  - first:
+      213: -8663410703962024942
+    second: Talent Card Icons Genetic Limits_10
+  - first:
+      213: -2848987546971397298
+    second: Talent Card Icons Genetic Limits_11
+  - first:
+      213: 7775219242000278219
+    second: Talent Card Icons Genetic Limits_12
+  - first:
+      213: 7289507680836773312
+    second: Talent Card Icons Genetic Limits_13
+  - first:
+      213: -4289143474268732749
+    second: Talent Card Icons Genetic Limits_14
+  - first:
+      213: 5064552797870090569
+    second: Talent Card Icons Genetic Limits_15
+  - first:
+      213: -8439550632016590293
+    second: Talent Card Icons Genetic Limits_16
+  - first:
+      213: 6405189193604164689
+    second: Talent Card Icons Genetic Limits_17
+  - first:
+      213: -4562946623457137480
+    second: Talent Card Icons Genetic Limits_18
+  - first:
+      213: -3716904917607319383
+    second: Talent Card Icons Genetic Limits_19
+  - first:
+      213: 7482528180089887243
+    second: Talent Card Icons Genetic Limits_20
+  - first:
+      213: -7728607963002389450
+    second: Talent Card Icons Genetic Limits_21
+  - first:
+      213: 260233606130248252
+    second: Talent Card Icons Genetic Limits_22
+  - first:
+      213: -5693787853565345008
+    second: Talent Card Icons Genetic Limits_23
+  - first:
+      213: 7344844206504313132
+    second: Talent Card Icons Genetic Limits_24
+  - first:
+      213: 8043210983774498420
+    second: Talent Card Icons Genetic Limits_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 598
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274ec709b0836ed0800000000000000
+      internalID: -2421950642406930655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 269
+        width: 143
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6c912c2a8b0fa0800000000000000
+      internalID: -5833416970181252162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 527
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abca4a3aa167cd0800000000000000
+      internalID: -2560830047968773629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 500
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9883f222fc88440800000000000000
+      internalID: 4938424737139821006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 573
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ab864730ec2e070800000000000000
+      internalID: 8134290391217781332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 573
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf6c077f4aba3710800000000000000
+      internalID: 1673855061984047025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 502
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c854e65dcfe93b1e0800000000000000
+      internalID: -2183226585594837620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 502
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6097163ab55c79010800000000000000
+      internalID: 1195641223463926022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 449
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d135cba06024230800000000000000
+      internalID: 3621463693538303275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 416
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73331ea33f30ca00800000000000000
+      internalID: 774688627104101245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d60f8dd165c780800000000000000
+      internalID: -8663410703962024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43224dabec5678d0800000000000000
+      internalID: -2848987546971397298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 399
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2653aa4b027eb60800000000000000
+      internalID: 7775219242000278219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e1cf3d98892560800000000000000
+      internalID: 7289507680836773312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 381
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b207892cb6e974c0800000000000000
+      internalID: -4289143474268732749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e14fbfe7e84640800000000000000
+      internalID: 5064552797870090569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4ab23a61b0ea80800000000000000
+      internalID: -8439550632016590293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 286
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c62fba2adc3e850800000000000000
+      internalID: 6405189193604164689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 251
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce4c3b8382da0c0800000000000000
+      internalID: -4562946623457137480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8fc12aba6ea6cc0800000000000000
+      internalID: -3716904917607319383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a9b145cb747d760800000000000000
+      internalID: 7482528180089887243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 200
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cbcfc61087eb490800000000000000
+      internalID: -7728607963002389450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 191
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a230406198c9300800000000000000
+      internalID: 260233606130248252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013cdc93d1a9bf0b0800000000000000
+      internalID: -5693787853565345008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21864324e02ee560800000000000000
+      internalID: 7344844206504313132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Genetic Limits_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e266566c93f9f60800000000000000
+      internalID: 8043210983774498420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Talent Card Icons Genetic Limits_0: -2421950642406930655
+      Talent Card Icons Genetic Limits_1: -5833416970181252162
+      Talent Card Icons Genetic Limits_10: -8663410703962024942
+      Talent Card Icons Genetic Limits_11: -2848987546971397298
+      Talent Card Icons Genetic Limits_12: 7775219242000278219
+      Talent Card Icons Genetic Limits_13: 7289507680836773312
+      Talent Card Icons Genetic Limits_14: -4289143474268732749
+      Talent Card Icons Genetic Limits_15: 5064552797870090569
+      Talent Card Icons Genetic Limits_16: -8439550632016590293
+      Talent Card Icons Genetic Limits_17: 6405189193604164689
+      Talent Card Icons Genetic Limits_18: -4562946623457137480
+      Talent Card Icons Genetic Limits_19: -3716904917607319383
+      Talent Card Icons Genetic Limits_2: -2560830047968773629
+      Talent Card Icons Genetic Limits_20: 7482528180089887243
+      Talent Card Icons Genetic Limits_21: -7728607963002389450
+      Talent Card Icons Genetic Limits_22: 260233606130248252
+      Talent Card Icons Genetic Limits_23: -5693787853565345008
+      Talent Card Icons Genetic Limits_24: 7344844206504313132
+      Talent Card Icons Genetic Limits_25: 8043210983774498420
+      Talent Card Icons Genetic Limits_3: 4938424737139821006
+      Talent Card Icons Genetic Limits_4: 8134290391217781332
+      Talent Card Icons Genetic Limits_5: 1673855061984047025
+      Talent Card Icons Genetic Limits_6: -2183226585594837620
+      Talent Card Icons Genetic Limits_7: 1195641223463926022
+      Talent Card Icons Genetic Limits_8: 3621463693538303275
+      Talent Card Icons Genetic Limits_9: 774688627104101245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

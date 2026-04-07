@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: ecdbe617e004bfa4d8d2d27992304f10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3410994569886654467
+    second: Talent Card Icons Digging Shank_0
+  - first:
+      213: 3095671956264762115
+    second: Talent Card Icons Digging Shank_1
+  - first:
+      213: -6194366987754668075
+    second: Talent Card Icons Digging Shank_2
+  - first:
+      213: 7770448744277988360
+    second: Talent Card Icons Digging Shank_3
+  - first:
+      213: 5172060436098910295
+    second: Talent Card Icons Digging Shank_4
+  - first:
+      213: -2871184548867763286
+    second: Talent Card Icons Digging Shank_5
+  - first:
+      213: -3277721178642845876
+    second: Talent Card Icons Digging Shank_6
+  - first:
+      213: -8535337989432132737
+    second: Talent Card Icons Digging Shank_7
+  - first:
+      213: 5289472617129820670
+    second: Talent Card Icons Digging Shank_8
+  - first:
+      213: 9074422831190637471
+    second: Talent Card Icons Digging Shank_9
+  - first:
+      213: -3761048460450833787
+    second: Talent Card Icons Digging Shank_10
+  - first:
+      213: -2303897622548245746
+    second: Talent Card Icons Digging Shank_11
+  - first:
+      213: -3966698004582572374
+    second: Talent Card Icons Digging Shank_12
+  - first:
+      213: 3358773077379700356
+    second: Talent Card Icons Digging Shank_13
+  - first:
+      213: 2699551530873733528
+    second: Talent Card Icons Digging Shank_14
+  - first:
+      213: -7775572814829195517
+    second: Talent Card Icons Digging Shank_15
+  - first:
+      213: -4498226165606753196
+    second: Talent Card Icons Digging Shank_16
+  - first:
+      213: -7575456749914699221
+    second: Talent Card Icons Digging Shank_17
+  - first:
+      213: -2735085595460776674
+    second: Talent Card Icons Digging Shank_18
+  - first:
+      213: 7726994778027636062
+    second: Talent Card Icons Digging Shank_19
+  - first:
+      213: 2782870742447710756
+    second: Talent Card Icons Digging Shank_20
+  - first:
+      213: 42974654715618638
+    second: Talent Card Icons Digging Shank_21
+  - first:
+      213: 875803181187616203
+    second: Talent Card Icons Digging Shank_22
+  - first:
+      213: -3434357272704073854
+    second: Talent Card Icons Digging Shank_23
+  - first:
+      213: -1485031895909294996
+    second: Talent Card Icons Digging Shank_24
+  - first:
+      213: 8024264734688912867
+    second: Talent Card Icons Digging Shank_25
+  - first:
+      213: 7483551224317871436
+    second: Talent Card Icons Digging Shank_26
+  - first:
+      213: 6031707266561252775
+    second: Talent Card Icons Digging Shank_27
+  - first:
+      213: -262926621774612532
+    second: Talent Card Icons Digging Shank_28
+  - first:
+      213: 541157623361765438
+    second: Talent Card Icons Digging Shank_29
+  - first:
+      213: 1303436429294059648
+    second: Talent Card Icons Digging Shank_30
+  - first:
+      213: -2960636706460369015
+    second: Talent Card Icons Digging Shank_31
+  - first:
+      213: 7712823090856687162
+    second: Talent Card Icons Digging Shank_32
+  - first:
+      213: 7085921704346186280
+    second: Talent Card Icons Digging Shank_33
+  - first:
+      213: -1768577196644161829
+    second: Talent Card Icons Digging Shank_34
+  - first:
+      213: 7626463763937402894
+    second: Talent Card Icons Digging Shank_35
+  - first:
+      213: 6201781325504471513
+    second: Talent Card Icons Digging Shank_36
+  - first:
+      213: 7823505180442098600
+    second: Talent Card Icons Digging Shank_37
+  - first:
+      213: 9127307465543527352
+    second: Talent Card Icons Digging Shank_38
+  - first:
+      213: 7405418605613885919
+    second: Talent Card Icons Digging Shank_39
+  - first:
+      213: 8715729454584753278
+    second: Talent Card Icons Digging Shank_40
+  - first:
+      213: -3704347813387547564
+    second: Talent Card Icons Digging Shank_41
+  - first:
+      213: -309534674466261681
+    second: Talent Card Icons Digging Shank_42
+  - first:
+      213: -8428118779254835465
+    second: Talent Card Icons Digging Shank_43
+  - first:
+      213: -2000931086817624433
+    second: Talent Card Icons Digging Shank_44
+  - first:
+      213: -3546503951960924877
+    second: Talent Card Icons Digging Shank_45
+  - first:
+      213: 6808888195276888539
+    second: Talent Card Icons Digging Shank_46
+  - first:
+      213: 2014306820680979740
+    second: Talent Card Icons Digging Shank_47
+  - first:
+      213: 232561646491948843
+    second: Talent Card Icons Digging Shank_48
+  - first:
+      213: -8899309130390896148
+    second: Talent Card Icons Digging Shank_49
+  - first:
+      213: 7688469316767138757
+    second: Talent Card Icons Digging Shank_50
+  - first:
+      213: 7605469260458127095
+    second: Talent Card Icons Digging Shank_51
+  - first:
+      213: 8234425585377141886
+    second: Talent Card Icons Digging Shank_52
+  - first:
+      213: -1917544415412575682
+    second: Talent Card Icons Digging Shank_53
+  - first:
+      213: -7790730968540147017
+    second: Talent Card Icons Digging Shank_54
+  - first:
+      213: 3541929699341090838
+    second: Talent Card Icons Digging Shank_55
+  - first:
+      213: -7763160140904616595
+    second: Talent Card Icons Digging Shank_56
+  - first:
+      213: 8428600268223505623
+    second: Talent Card Icons Digging Shank_57
+  - first:
+      213: 5053314378767865026
+    second: Talent Card Icons Digging Shank_58
+  - first:
+      213: -1691905752694129060
+    second: Talent Card Icons Digging Shank_59
+  - first:
+      213: 5895968435606902463
+    second: Talent Card Icons Digging Shank_60
+  - first:
+      213: -8814827958879076932
+    second: Talent Card Icons Digging Shank_61
+  - first:
+      213: -1727071139201307629
+    second: Talent Card Icons Digging Shank_62
+  - first:
+      213: -900605093996524614
+    second: Talent Card Icons Digging Shank_63
+  - first:
+      213: 2098242079079524717
+    second: Talent Card Icons Digging Shank_64
+  - first:
+      213: -3838882504382238726
+    second: Talent Card Icons Digging Shank_65
+  - first:
+      213: 4878160506908275803
+    second: Talent Card Icons Digging Shank_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 85
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30061e43d79465f20800000000000000
+      internalID: 3410994569886654467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 299
+        width: 366
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bbc4e1e3906fa20800000000000000
+      internalID: 3095671956264762115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 304
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff9763b00390aa0800000000000000
+      internalID: -6194366987754668075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 55
+        width: 85
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804d11c96fd26db60800000000000000
+      internalID: 7770448744277988360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758078a5099d6c740800000000000000
+      internalID: 5172060436098910295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa395207dd08728d0800000000000000
+      internalID: -2871184548867763286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 156
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fe73244f13382d0800000000000000
+      internalID: -3277721178642845876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b300e12536c8980800000000000000
+      internalID: -8535337989432132737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1cd29025bf76940800000000000000
+      internalID: 5289472617129820670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 155
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bffc29c73deed70800000000000000
+      internalID: 9074422831190637471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5cc32a521ecbc0800000000000000
+      internalID: -3761048460450833787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 144
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e031521a159e600e0800000000000000
+      internalID: -2303897622548245746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeda996e2573f8c0800000000000000
+      internalID: -3966698004582572374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 135
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486dc5e7152cc9e20800000000000000
+      internalID: 3358773077379700356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 134
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891479280dbb67520800000000000000
+      internalID: 2699551530873733528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 88
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30febeeb8bd971490800000000000000
+      internalID: -7775572814829195517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c54af82271391c0800000000000000
+      internalID: -4498226165606753196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2acff1f8329ed690800000000000000
+      internalID: -7575456749914699221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc54c54260b0ad0800000000000000
+      internalID: -2735085595460776674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b2adafcccb3b60800000000000000
+      internalID: 7726994778027636062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226c6b223ebe9620800000000000000
+      internalID: 2782870742447710756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e456ba4883da89000800000000000000
+      internalID: 42974654715618638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd48d36a5a772c00800000000000000
+      internalID: 875803181187616203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb1b8a146b650d0800000000000000
+      internalID: -3434357272704073854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c9334db5b146be0800000000000000
+      internalID: -1485031895909294996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a3d6034aeb5f60800000000000000
+      internalID: 8024264734688912867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 91
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4508ef503aead760800000000000000
+      internalID: 7483551224317871436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 79
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad96843dcde4b350800000000000000
+      internalID: 6031707266561252775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7712b61a5e95cf0800000000000000
+      internalID: -262926621774612532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 87
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3009f3cdf3928700800000000000000
+      internalID: 541157623361765438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080406bc68cb61210800000000000000
+      internalID: 1303436429294059648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f72720a94b9e6d0800000000000000
+      internalID: -2960636706460369015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 57
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3671f1acb3790b60800000000000000
+      internalID: 7712823090856687162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f8cd4f30465260800000000000000
+      internalID: 7085921704346186280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 54
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62b24f860c477e0800000000000000
+      internalID: -1768577196644161829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a0e5f264a6d960800000000000000
+      internalID: 7626463763937402894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d16851d147211650800000000000000
+      internalID: 6201781325504471513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 65
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfdaac28ca29c60800000000000000
+      internalID: 7823505180442098600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_38
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 51
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb2e7708c5baae70800000000000000
+      internalID: 9127307465543527352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 67
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd92fa87cf455c660800000000000000
+      internalID: 7405418605613885919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ceee2d2cd74f870800000000000000
+      internalID: 8715729454584753278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4a8a4a43879cc0800000000000000
+      internalID: -3704347813387547564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 55
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b5c28adf44bbf0800000000000000
+      internalID: -309534674466261681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f677b5df9e490b80800000000000000
+      internalID: -8428118779254835465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_44
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef23627c34b34e0800000000000000
+      internalID: -2000931086817624433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d99d4227948cec0800000000000000
+      internalID: -3546503951960924877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd954d21db70e7e50800000000000000
+      internalID: 6808888195276888539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c151653916144fb10800000000000000
+      internalID: 2014306820680979740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 45
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275887d5993a3300800000000000000
+      internalID: 232561646491948843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 33
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce109a81f7d4f7480800000000000000
+      internalID: -8899309130390896148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3456cbb1ee2ba60800000000000000
+      internalID: 7688469316767138757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe62c33ffd0c8960800000000000000
+      internalID: 7605469260458127095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 36
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74eac9217e864270800000000000000
+      internalID: 8234425585377141886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32ac4683838365e0800000000000000
+      internalID: -1917544415412575682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2978f0673c1e390800000000000000
+      internalID: -7790730968540147017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_55
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 34
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c1acab46772130800000000000000
+      internalID: 3541929699341090838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_56
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6da8ea9bf6b34490800000000000000
+      internalID: -7763160140904616595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4693d894768f470800000000000000
+      internalID: 8428600268223505623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 22
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c415d467aaf02640800000000000000
+      internalID: 5053314378767865026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef9399ea42588e0800000000000000
+      internalID: -1691905752694129060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6d343dd00b2d150800000000000000
+      internalID: 5895968435606902463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb4d2aca07ba580800000000000000
+      internalID: -8814827958879076932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_62
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 12
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca31603f53808e0800000000000000
+      internalID: -1727071139201307629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb0e6940786083f0800000000000000
+      internalID: -900605093996524614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69ef40dd047e1d10800000000000000
+      internalID: 2098242079079524717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa5d793bc89bac0800000000000000
+      internalID: -3838882504382238726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Digging Shank_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547b9ba225b2b340800000000000000
+      internalID: 4878160506908275803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Talent Card Icons Digging Shank_0: 3410994569886654467
+      Talent Card Icons Digging Shank_1: 3095671956264762115
+      Talent Card Icons Digging Shank_10: -3761048460450833787
+      Talent Card Icons Digging Shank_11: -2303897622548245746
+      Talent Card Icons Digging Shank_12: -3966698004582572374
+      Talent Card Icons Digging Shank_13: 3358773077379700356
+      Talent Card Icons Digging Shank_14: 2699551530873733528
+      Talent Card Icons Digging Shank_15: -7775572814829195517
+      Talent Card Icons Digging Shank_16: -4498226165606753196
+      Talent Card Icons Digging Shank_17: -7575456749914699221
+      Talent Card Icons Digging Shank_18: -2735085595460776674
+      Talent Card Icons Digging Shank_19: 7726994778027636062
+      Talent Card Icons Digging Shank_2: -6194366987754668075
+      Talent Card Icons Digging Shank_20: 2782870742447710756
+      Talent Card Icons Digging Shank_21: 42974654715618638
+      Talent Card Icons Digging Shank_22: 875803181187616203
+      Talent Card Icons Digging Shank_23: -3434357272704073854
+      Talent Card Icons Digging Shank_24: -1485031895909294996
+      Talent Card Icons Digging Shank_25: 8024264734688912867
+      Talent Card Icons Digging Shank_26: 7483551224317871436
+      Talent Card Icons Digging Shank_27: 6031707266561252775
+      Talent Card Icons Digging Shank_28: -262926621774612532
+      Talent Card Icons Digging Shank_29: 541157623361765438
+      Talent Card Icons Digging Shank_3: 7770448744277988360
+      Talent Card Icons Digging Shank_30: 1303436429294059648
+      Talent Card Icons Digging Shank_31: -2960636706460369015
+      Talent Card Icons Digging Shank_32: 7712823090856687162
+      Talent Card Icons Digging Shank_33: 7085921704346186280
+      Talent Card Icons Digging Shank_34: -1768577196644161829
+      Talent Card Icons Digging Shank_35: 7626463763937402894
+      Talent Card Icons Digging Shank_36: 6201781325504471513
+      Talent Card Icons Digging Shank_37: 7823505180442098600
+      Talent Card Icons Digging Shank_38: 9127307465543527352
+      Talent Card Icons Digging Shank_39: 7405418605613885919
+      Talent Card Icons Digging Shank_4: 5172060436098910295
+      Talent Card Icons Digging Shank_40: 8715729454584753278
+      Talent Card Icons Digging Shank_41: -3704347813387547564
+      Talent Card Icons Digging Shank_42: -309534674466261681
+      Talent Card Icons Digging Shank_43: -8428118779254835465
+      Talent Card Icons Digging Shank_44: -2000931086817624433
+      Talent Card Icons Digging Shank_45: -3546503951960924877
+      Talent Card Icons Digging Shank_46: 6808888195276888539
+      Talent Card Icons Digging Shank_47: 2014306820680979740
+      Talent Card Icons Digging Shank_48: 232561646491948843
+      Talent Card Icons Digging Shank_49: -8899309130390896148
+      Talent Card Icons Digging Shank_5: -2871184548867763286
+      Talent Card Icons Digging Shank_50: 7688469316767138757
+      Talent Card Icons Digging Shank_51: 7605469260458127095
+      Talent Card Icons Digging Shank_52: 8234425585377141886
+      Talent Card Icons Digging Shank_53: -1917544415412575682
+      Talent Card Icons Digging Shank_54: -7790730968540147017
+      Talent Card Icons Digging Shank_55: 3541929699341090838
+      Talent Card Icons Digging Shank_56: -7763160140904616595
+      Talent Card Icons Digging Shank_57: 8428600268223505623
+      Talent Card Icons Digging Shank_58: 5053314378767865026
+      Talent Card Icons Digging Shank_59: -1691905752694129060
+      Talent Card Icons Digging Shank_6: -3277721178642845876
+      Talent Card Icons Digging Shank_60: 5895968435606902463
+      Talent Card Icons Digging Shank_61: -8814827958879076932
+      Talent Card Icons Digging Shank_62: -1727071139201307629
+      Talent Card Icons Digging Shank_63: -900605093996524614
+      Talent Card Icons Digging Shank_64: 2098242079079524717
+      Talent Card Icons Digging Shank_65: -3838882504382238726
+      Talent Card Icons Digging Shank_66: 4878160506908275803
+      Talent Card Icons Digging Shank_7: -8535337989432132737
+      Talent Card Icons Digging Shank_8: 5289472617129820670
+      Talent Card Icons Digging Shank_9: 9074422831190637471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

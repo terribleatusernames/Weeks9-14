@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: e3d804665e584734eabfd45a557e3273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4095870851999945131
+    second: Talent Card Icons Blood Rush_0
+  - first:
+      213: 2124053290030832030
+    second: Talent Card Icons Blood Rush_1
+  - first:
+      213: 4973489591646060179
+    second: Talent Card Icons Blood Rush_2
+  - first:
+      213: 5431609472987062248
+    second: Talent Card Icons Blood Rush_3
+  - first:
+      213: 520083185331686533
+    second: Talent Card Icons Blood Rush_4
+  - first:
+      213: -3085434500950583703
+    second: Talent Card Icons Blood Rush_5
+  - first:
+      213: 3031065345229270404
+    second: Talent Card Icons Blood Rush_6
+  - first:
+      213: 6703827194335640981
+    second: Talent Card Icons Blood Rush_7
+  - first:
+      213: 8160050075875228306
+    second: Talent Card Icons Blood Rush_8
+  - first:
+      213: -7767436072261215096
+    second: Talent Card Icons Blood Rush_9
+  - first:
+      213: -2425854954075385587
+    second: Talent Card Icons Blood Rush_10
+  - first:
+      213: -2350905051851844838
+    second: Talent Card Icons Blood Rush_11
+  - first:
+      213: -1007918515807660883
+    second: Talent Card Icons Blood Rush_12
+  - first:
+      213: 2110519257459531103
+    second: Talent Card Icons Blood Rush_13
+  - first:
+      213: 105454780440010758
+    second: Talent Card Icons Blood Rush_14
+  - first:
+      213: 272440753166373419
+    second: Talent Card Icons Blood Rush_15
+  - first:
+      213: -7113229304184937750
+    second: Talent Card Icons Blood Rush_16
+  - first:
+      213: 2729402689272644409
+    second: Talent Card Icons Blood Rush_17
+  - first:
+      213: 7208645156043103773
+    second: Talent Card Icons Blood Rush_18
+  - first:
+      213: 7348984251737575863
+    second: Talent Card Icons Blood Rush_19
+  - first:
+      213: -8327204424972774266
+    second: Talent Card Icons Blood Rush_20
+  - first:
+      213: -8154308229869031995
+    second: Talent Card Icons Blood Rush_21
+  - first:
+      213: -3823542511736475505
+    second: Talent Card Icons Blood Rush_22
+  - first:
+      213: -1717713776444962431
+    second: Talent Card Icons Blood Rush_23
+  - first:
+      213: 6606639248008993238
+    second: Talent Card Icons Blood Rush_24
+  - first:
+      213: -8628128176493240182
+    second: Talent Card Icons Blood Rush_25
+  - first:
+      213: 6028077359227156828
+    second: Talent Card Icons Blood Rush_26
+  - first:
+      213: 4464869866737049929
+    second: Talent Card Icons Blood Rush_27
+  - first:
+      213: -2572087018935738737
+    second: Talent Card Icons Blood Rush_28
+  - first:
+      213: 1961955673783774580
+    second: Talent Card Icons Blood Rush_29
+  - first:
+      213: 3131818219738800123
+    second: Talent Card Icons Blood Rush_30
+  - first:
+      213: -2602870545157579355
+    second: Talent Card Icons Blood Rush_31
+  - first:
+      213: 2635741053963333266
+    second: Talent Card Icons Blood Rush_32
+  - first:
+      213: 745616125291113406
+    second: Talent Card Icons Blood Rush_33
+  - first:
+      213: 1870759837425630012
+    second: Talent Card Icons Blood Rush_34
+  - first:
+      213: -1399300499107280610
+    second: Talent Card Icons Blood Rush_35
+  - first:
+      213: -8993002932379258768
+    second: Talent Card Icons Blood Rush_36
+  - first:
+      213: 2247834596675048759
+    second: Talent Card Icons Blood Rush_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Talent Card Icons Blood Rush_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78172f82ed8534c9f8900c3b87e33e
+      internalID: -4095870851999945131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd889466a3fb6ab47bdf562a95ddeea3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":600.0,"y":600.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Talent Card Icons Blood Rush_0: -4095870851999945131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

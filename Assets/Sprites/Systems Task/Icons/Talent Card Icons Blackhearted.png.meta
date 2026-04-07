@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 6369a9b16f81a554f8da58483185f1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -95870876068261689
+    second: Talent Card Icons Blackhearted_0
+  - first:
+      213: 5237812918862543120
+    second: Talent Card Icons Blackhearted_1
+  - first:
+      213: -4559261665405284758
+    second: Talent Card Icons Blackhearted_2
+  - first:
+      213: -2310724249758769548
+    second: Talent Card Icons Blackhearted_3
+  - first:
+      213: 862565097448584390
+    second: Talent Card Icons Blackhearted_4
+  - first:
+      213: 1226356043367438548
+    second: Talent Card Icons Blackhearted_5
+  - first:
+      213: 7673894541134297955
+    second: Talent Card Icons Blackhearted_6
+  - first:
+      213: -7715378953072981103
+    second: Talent Card Icons Blackhearted_7
+  - first:
+      213: -2605949373510213549
+    second: Talent Card Icons Blackhearted_8
+  - first:
+      213: -7488186120064405188
+    second: Talent Card Icons Blackhearted_9
+  - first:
+      213: 5882820916343431505
+    second: Talent Card Icons Blackhearted_10
+  - first:
+      213: 216005537351111681
+    second: Talent Card Icons Blackhearted_11
+  - first:
+      213: 7391429801215037533
+    second: Talent Card Icons Blackhearted_12
+  - first:
+      213: 103369630290631288
+    second: Talent Card Icons Blackhearted_13
+  - first:
+      213: -1899016740094064275
+    second: Talent Card Icons Blackhearted_14
+  - first:
+      213: -6763325167093758472
+    second: Talent Card Icons Blackhearted_15
+  - first:
+      213: 1014534772994195758
+    second: Talent Card Icons Blackhearted_16
+  - first:
+      213: 6381639444511372074
+    second: Talent Card Icons Blackhearted_17
+  - first:
+      213: -7248370483744591131
+    second: Talent Card Icons Blackhearted_18
+  - first:
+      213: 8962765808540771673
+    second: Talent Card Icons Blackhearted_19
+  - first:
+      213: -5320149190413712823
+    second: Talent Card Icons Blackhearted_20
+  - first:
+      213: -545460821327624897
+    second: Talent Card Icons Blackhearted_21
+  - first:
+      213: -3225815104291021656
+    second: Talent Card Icons Blackhearted_22
+  - first:
+      213: 6990367657452106121
+    second: Talent Card Icons Blackhearted_23
+  - first:
+      213: -1706324571536048523
+    second: Talent Card Icons Blackhearted_24
+  - first:
+      213: 2603429429606648770
+    second: Talent Card Icons Blackhearted_25
+  - first:
+      213: 2344556672965235036
+    second: Talent Card Icons Blackhearted_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c055a732f56baef0800000000000000
+      internalID: -95870876068261689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 591
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f0cc391370b840800000000000000
+      internalID: 5237812918862543120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 594
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e467bdbaf3ab0c0800000000000000
+      internalID: -4559261665405284758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 592
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5f3f9988aeefd0800000000000000
+      internalID: -2310724249758769548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 593
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b215d26278fb00800000000000000
+      internalID: 862565097448584390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 456
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8d11de254e40110800000000000000
+      internalID: 1226356043367438548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 424
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7e185d662f7a60800000000000000
+      internalID: 7673894541134297955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4f8258b77de490800000000000000
+      internalID: -7715378953072981103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 376
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a5490adec5dbd0800000000000000
+      internalID: -2605949373510213549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 327
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fc8dd56e941890800000000000000
+      internalID: -7488186120064405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 344
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15163e3747af3a150800000000000000
+      internalID: 5882820916343431505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 311
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104945b44e76ff200800000000000000
+      internalID: 216005537351111681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5098a32e32a39660800000000000000
+      internalID: 7391429801215037533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a590e812e3f6100800000000000000
+      internalID: 103369630290631288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694c28165655a5e0800000000000000
+      internalID: -1899016740094064275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5caea1897d322a0800000000000000
+      internalID: -6763325167093758472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21c994300a541e00800000000000000
+      internalID: 1014534772994195758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23b8be6343209850800000000000000
+      internalID: 6381639444511372074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23af3d27d986b90800000000000000
+      internalID: -7248370483744591131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955e61f1404226c70800000000000000
+      internalID: 8962765808540771673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9420f49af780b26b0800000000000000
+      internalID: -5320149190413712823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35cfd1e5422e68f0800000000000000
+      internalID: -545460821327624897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd4a5f04a9b33d0800000000000000
+      internalID: -3225815104291021656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981ffcf0956c20160800000000000000
+      internalID: 6990367657452106121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb21ab7dae158e0800000000000000
+      internalID: -1706324571536048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb808dc54d312420800000000000000
+      internalID: 2603429429606648770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talent Card Icons Blackhearted_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c515ddf3fd9898020800000000000000
+      internalID: 2344556672965235036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Talent Card Icons Blackhearted_0: -95870876068261689
+      Talent Card Icons Blackhearted_1: 5237812918862543120
+      Talent Card Icons Blackhearted_10: 5882820916343431505
+      Talent Card Icons Blackhearted_11: 216005537351111681
+      Talent Card Icons Blackhearted_12: 7391429801215037533
+      Talent Card Icons Blackhearted_13: 103369630290631288
+      Talent Card Icons Blackhearted_14: -1899016740094064275
+      Talent Card Icons Blackhearted_15: -6763325167093758472
+      Talent Card Icons Blackhearted_16: 1014534772994195758
+      Talent Card Icons Blackhearted_17: 6381639444511372074
+      Talent Card Icons Blackhearted_18: -7248370483744591131
+      Talent Card Icons Blackhearted_19: 8962765808540771673
+      Talent Card Icons Blackhearted_2: -4559261665405284758
+      Talent Card Icons Blackhearted_20: -5320149190413712823
+      Talent Card Icons Blackhearted_21: -545460821327624897
+      Talent Card Icons Blackhearted_22: -3225815104291021656
+      Talent Card Icons Blackhearted_23: 6990367657452106121
+      Talent Card Icons Blackhearted_24: -1706324571536048523
+      Talent Card Icons Blackhearted_25: 2603429429606648770
+      Talent Card Icons Blackhearted_26: 2344556672965235036
+      Talent Card Icons Blackhearted_3: -2310724249758769548
+      Talent Card Icons Blackhearted_4: 862565097448584390
+      Talent Card Icons Blackhearted_5: 1226356043367438548
+      Talent Card Icons Blackhearted_6: 7673894541134297955
+      Talent Card Icons Blackhearted_7: -7715378953072981103
+      Talent Card Icons Blackhearted_8: -2605949373510213549
+      Talent Card Icons Blackhearted_9: -7488186120064405188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
